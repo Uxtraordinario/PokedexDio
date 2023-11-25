@@ -1,0 +1,31 @@
+* {
+  font-family: 'Roboto', sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background: url('https://cdn.icon-icons.com/icons2/2248/PNG/512/pokeball_icon_136305.png') no-repeat center center fixed;
+  background-size: 20%; /* Ajuste o tamanho conforme necessário */
+  background-color: rgba(246, 248, 252, 0.7); /* Cor de fundo com transparência */
+  height: 100vh; /* 100% da altura da viewport */
+  margin: 0; /* Remova as margens padrão do corpo */
+}
+
+
+.content {
+  width: 100vw;
+  height: 100vh;
+  padding: 1rem;
+  background-color: #fff;
+}
+
+@media screen and (min-width: 992px) {
+  .content {
+      max-width: 992px;
+      height: auto;
+      margin: 1rem auto;
+      border-radius: 1rem;
+  }
+}
+
+
