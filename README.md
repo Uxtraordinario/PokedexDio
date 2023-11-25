@@ -1,2 +1,11 @@
-# PokedexDio
-Pokedex desenvolvida com Javascirpt, projeto desenvolvido durante um bootcamp da plataforma da DIO
+<h1>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/pokemon-icon.png" width="40px">
+Pokedex</h1>
+<h2>
+   <img src="https://cdn.pixabay.com/photo/2016/08/06/07/59/pokemon-go-1574003_1280.png" width="40px">
+   Aviso</h2>
+Este projeto foi desenvolvido juntamente através da formação <b>Desenvolvimento Frontend com Angular</b> na plataforma da DIO
+
+<h2>Olá Mestre(a) Pokémon...</h2>
+<p>Nesse projeto você verá toda a primeira geração pokémon, contendo os mais diversos tipos </p>
+<p>de pokémons existentes. </p>
