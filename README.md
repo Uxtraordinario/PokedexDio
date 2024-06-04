@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/pokemon-icon.png" width="40px">
 Pokedex</h1>
 <h2>
