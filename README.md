@@ -3,7 +3,7 @@
 Pokedex</h1>
 
 
-<img align="center" src="https://d31xsmoz1lk3y3.cloudfront.net/games/imgur/y5U6bmY.jpg">
+<p align="center"> <img align="center" width="720px" src="https://d31xsmoz1lk3y3.cloudfront.net/games/imgur/y5U6bmY.jpg"> </p>
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Uxtraordinario/PokedexDio?style=for-the-badge)
